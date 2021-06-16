@@ -62,7 +62,7 @@
 </template>
 
 <script>
-import Logo from '@/assets/srlogo.png'
+import Logo from '@/assets/learnam.jpg'
 export default {
   name: 'Login',
   data(){

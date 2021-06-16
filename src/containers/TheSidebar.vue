@@ -29,7 +29,7 @@
 
 <script>
 import SidebarItems from './SidebarItems'
-import Logo from '@/assets/srlogo.png'
+import Logo from '@/assets/learnam.jpg'
 export default {
   name: 'TheSidebar',
   extends: SidebarItems,
