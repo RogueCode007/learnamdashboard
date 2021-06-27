@@ -1,1 +1,1 @@
-Smooth repairs admin dashboard built using coreUI
+Learnam admin dashboard built using coreUI
